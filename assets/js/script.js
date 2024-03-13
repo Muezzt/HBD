@@ -27,7 +27,7 @@ function mulai() {
 }
 
 function wa(isi) {
-  open("https://wa.me/6285216586387?" + isi);
+  open("https://wa.me/6285216586387?text=" + isi);
 }
 
 async function makeawish() {
